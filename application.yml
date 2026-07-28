@@ -1,2 +1,2 @@
-global:
-  message: Config Server global configuration from github
+message:
+  greeting: Config Server global configuration from github
